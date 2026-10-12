@@ -1,6 +1,6 @@
-# Audacity 2.4.1 (Windows) — Unmodified Mirror
+# Audacity v2.4.1 Insaller for Windows (Unmodified Mirror)
 
-This repository mirrors the official Audacity 2.4.1 Windows installer,
+This repository mirrors the official Audacity v2.4.1 Windows installer,
 unmodified, for use with the weeboop Scoop bucket.
 
 - Official release notes: https://support.audacityteam.org/additional-resources/changelog/older-versions/audacity-2.x/audacity-2.4.0/audacity-2.4.1
